@@ -1,0 +1,1 @@
+export { useInfiniteScrollPokemon } from './useInfiniteScrollPokemon';
